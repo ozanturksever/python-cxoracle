@@ -1,0 +1,6 @@
+../cx_Oracle.so
+./
+SOURCES.txt
+PKG-INFO
+dependency_links.txt
+top_level.txt
